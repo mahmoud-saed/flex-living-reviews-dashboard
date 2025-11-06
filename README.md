@@ -1,6 +1,17 @@
 # Flex Living - Reviews Dashboard
 
+> 🚀 **Live Demo:** [https://flex-living-reviews-dashboard-one.vercel.app/](https://flex-living-reviews-dashboard-one.vercel.app/)
+
+> 📦 **GitHub Repository:** [https://github.com/mahmoud-saed/flex-living-reviews-dashboard](https://github.com/mahmoud-saed/flex-living-reviews-dashboard)
+
 A comprehensive review management system for property managers to aggregate, analyze, and curate guest reviews from multiple booking channels.
+
+## 🎯 Live Demo Links
+
+- **Home Page:** [https://flex-living-reviews-dashboard-one.vercel.app/](https://flex-living-reviews-dashboard-one.vercel.app/)
+- **Manager Dashboard:** [https://flex-living-reviews-dashboard-one.vercel.app/dashboard](https://flex-living-reviews-dashboard-one.vercel.app/dashboard)
+- **Sample Property:** [https://flex-living-reviews-dashboard-one.vercel.app/property/prop-001](https://flex-living-reviews-dashboard-one.vercel.app/property/prop-001)
+- **API Endpoint:** [https://flex-living-reviews-dashboard-one.vercel.app/api/reviews/hostaway](https://flex-living-reviews-dashboard-one.vercel.app/api/reviews/hostaway)
 
 ## Features
 
@@ -276,14 +287,19 @@ GOOGLE_PLACES_API_KEY=your_api_key
 
 ## Deployment
 
-### Deploy to Vercel (Recommended)
+### ✅ Deployed on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/flex-living-reviews-dashboard)
+This project is live and deployed at: **[https://flex-living-reviews-dashboard-one.vercel.app/](https://flex-living-reviews-dashboard-one.vercel.app/)**
 
-**Quick Deploy:**
-1. Push to GitHub
-2. Import to Vercel
-3. Deploy (auto-detected Next.js config)
+### Deploy Your Own Instance
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mahmoud-saed/flex-living-reviews-dashboard)
+
+**Steps:**
+1. Click the "Deploy" button above
+2. Login to Vercel with GitHub
+3. Vercel auto-detects Next.js configuration
+4. Your instance will be live in ~2 minutes!
 
 **Note:** Review selections use local file storage. For production persistence, integrate a database (see `DEPLOYMENT.md` for details).
 
