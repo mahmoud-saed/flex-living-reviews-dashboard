@@ -1,0 +1,86 @@
+{
+  "properties": [
+    {
+      "id": "prop-001",
+      "name": "Modern 2BR Shoreditch Heights",
+      "location": "Shoreditch, London",
+      "description": "A beautifully designed 2-bedroom apartment in the heart of Shoreditch. This modern space features contemporary furnishings, high-speed wifi, a fully equipped kitchen, and is surrounded by some of London's best restaurants, bars, and galleries.",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "maxGuests": 4,
+      "pricePerNight": 180,
+      "images": [
+        "/images/prop-001-1.jpg",
+        "/images/prop-001-2.jpg",
+        "/images/prop-001-3.jpg"
+      ],
+      "amenities": ["Wifi", "Kitchen", "Washer", "TV", "Coffee maker", "Dedicated workspace"]
+    },
+    {
+      "id": "prop-002",
+      "name": "Kings Cross Station Apartment",
+      "location": "Kings Cross, London",
+      "description": "Perfect for business travelers and tourists alike. This sleek apartment is steps from Kings Cross Station, offering unbeatable transport links. Modern amenities include fast wifi, workspace, and a comfortable living area.",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2,
+      "pricePerNight": 150,
+      "images": [
+        "/images/prop-002-1.jpg",
+        "/images/prop-002-2.jpg",
+        "/images/prop-002-3.jpg"
+      ],
+      "amenities": ["Wifi", "Kitchen", "Dedicated workspace", "TV", "Coffee maker", "Hair dryer"]
+    },
+    {
+      "id": "prop-003",
+      "name": "Camden Market Loft",
+      "location": "Camden, London",
+      "description": "Experience the vibrant energy of Camden Market from this unique loft space. Perfect for those who love alternative culture, live music, and eclectic food markets. The apartment offers a bohemian vibe with modern comforts.",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 3,
+      "pricePerNight": 120,
+      "images": [
+        "/images/prop-003-1.jpg",
+        "/images/prop-003-2.jpg",
+        "/images/prop-003-3.jpg"
+      ],
+      "amenities": ["Wifi", "Kitchen", "TV", "Coffee maker"]
+    },
+    {
+      "id": "prop-004",
+      "name": "Penthouse with Rooftop Terrace",
+      "location": "Mayfair, London",
+      "description": "Luxury penthouse apartment featuring a stunning private rooftop terrace with panoramic London views. This premium property offers top-of-the-line appliances, designer furnishings, and concierge service. Perfect for special occasions.",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "maxGuests": 6,
+      "pricePerNight": 450,
+      "images": [
+        "/images/prop-004-1.jpg",
+        "/images/prop-004-2.jpg",
+        "/images/prop-004-3.jpg",
+        "/images/prop-004-4.jpg"
+      ],
+      "amenities": ["Wifi", "Kitchen", "Washer", "Dryer", "TV", "Coffee maker", "Dedicated workspace", "Rooftop terrace", "City views", "Premium toiletries"]
+    },
+    {
+      "id": "prop-005",
+      "name": "Charming Notting Hill Flat",
+      "location": "Notting Hill, London",
+      "description": "Classic Notting Hill charm meets modern comfort in this delightful flat. Located near Portobello Road Market and beautiful garden squares. Features period details, contemporary updates, and is in one of London's most desirable neighborhoods.",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "maxGuests": 4,
+      "pricePerNight": 200,
+      "images": [
+        "/images/prop-005-1.jpg",
+        "/images/prop-005-2.jpg",
+        "/images/prop-005-3.jpg"
+      ],
+      "amenities": ["Wifi", "Kitchen", "Washer", "TV", "Coffee maker", "Hair dryer", "Iron"]
+    }
+  ]
+}
+

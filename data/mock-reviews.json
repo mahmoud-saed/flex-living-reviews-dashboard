@@ -1,0 +1,566 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1001,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Amazing apartment in the heart of Shoreditch! The space was modern, clean, and had everything we needed. Great communication from the host. Would definitely stay again!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9}
+      ],
+      "submittedAt": "2024-10-15T14:30:00Z",
+      "guestName": "Sarah Mitchell",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1002,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Perfect location near King's Cross Station! The apartment was spotless and exactly as described. Host was very responsive and helpful with local recommendations.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-10-12T09:15:00Z",
+      "guestName": "James Thompson",
+      "listingName": "Kings Cross Station Apartment",
+      "listingId": "prop-002",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1003,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Good location and nice apartment overall. However, the wifi was a bit slow and there was some street noise at night. Host was quick to respond to our concerns.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 8},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 6},
+        {"category": "accuracy", "rating": 7}
+      ],
+      "submittedAt": "2024-10-08T16:45:00Z",
+      "guestName": "Emma Watson",
+      "listingName": "Camden Market Loft",
+      "listingId": "prop-003",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1004,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Sarah and her family were wonderful guests! They kept the apartment in perfect condition and were very respectful. Would be happy to host them again.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2024-10-16T10:20:00Z",
+      "guestName": "Sarah Mitchell",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1005,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Absolutely loved our stay! The rooftop terrace was incredible with stunning views of London. The apartment is beautifully decorated and has all modern amenities. Highly recommend!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 10},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-09-28T11:00:00Z",
+      "guestName": "Michael Chen",
+      "listingName": "Penthouse with Rooftop Terrace",
+      "listingId": "prop-004",
+      "channel": "Direct"
+    },
+    {
+      "id": 1006,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great flat in Notting Hill! Close to the tube and lots of restaurants nearby. The space was clean and comfortable. Only minor issue was the bathroom could use some updating.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 7},
+        {"category": "accuracy", "rating": 8}
+      ],
+      "submittedAt": "2024-09-25T14:30:00Z",
+      "guestName": "Sophie Anderson",
+      "listingName": "Charming Notting Hill Flat",
+      "listingId": "prop-005",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 1007,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Fantastic stay in Shoreditch! The apartment exceeded our expectations. Modern fixtures, comfortable beds, and great shower. Walking distance to amazing coffee shops and restaurants.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9}
+      ],
+      "submittedAt": "2024-09-20T08:45:00Z",
+      "guestName": "David Martinez",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1008,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "The location is excellent, right by Camden Market. However, the apartment was smaller than expected and the kitchen was not well-equipped. Host was friendly though.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 7},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 5},
+        {"category": "accuracy", "rating": 5}
+      ],
+      "submittedAt": "2024-09-18T17:20:00Z",
+      "guestName": "Lisa Brown",
+      "listingName": "Camden Market Loft",
+      "listingId": "prop-003",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1009,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Perfect business trip accommodation! Right next to King's Cross with excellent transport links. Fast wifi, comfortable workspace, and very quiet. Will definitely book again for future trips.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-09-15T12:00:00Z",
+      "guestName": "Robert Johnson",
+      "listingName": "Kings Cross Station Apartment",
+      "listingId": "prop-002",
+      "channel": "Direct"
+    },
+    {
+      "id": 1010,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Michael was an excellent guest. Very tidy and communicated well throughout his stay. Welcome back anytime!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2024-09-29T09:30:00Z",
+      "guestName": "Michael Chen",
+      "listingName": "Penthouse with Rooftop Terrace",
+      "listingId": "prop-004",
+      "channel": "Direct"
+    },
+    {
+      "id": 1011,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Lovely apartment in a vibrant neighborhood! Notting Hill is beautiful and the flat was cozy and well-maintained. Great attention to detail from the host.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9}
+      ],
+      "submittedAt": "2024-09-10T15:30:00Z",
+      "guestName": "Anna Williams",
+      "listingName": "Charming Notting Hill Flat",
+      "listingId": "prop-005",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1012,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Solid option for exploring East London. The apartment has character and is in a cool area. Beds were comfortable and check-in was smooth. Would have liked more natural light.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 8},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 8}
+      ],
+      "submittedAt": "2024-09-05T10:15:00Z",
+      "guestName": "Thomas Garcia",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Expedia"
+    },
+    {
+      "id": 1013,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Outstanding experience from start to finish! The penthouse is absolutely stunning. Every detail was perfect. This is luxury living at its best. Thank you for an unforgettable stay!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 10},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-08-30T13:45:00Z",
+      "guestName": "Jennifer Lee",
+      "listingName": "Penthouse with Rooftop Terrace",
+      "listingId": "prop-004",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1014,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Decent place for the price. Location is the main selling point. The flat itself is a bit dated and could use some renovations, but it served our purpose for a weekend trip.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 7},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 7},
+        {"category": "accuracy", "rating": 7}
+      ],
+      "submittedAt": "2024-08-28T11:20:00Z",
+      "guestName": "Mark Davis",
+      "listingName": "Camden Market Loft",
+      "listingId": "prop-003",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1015,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Excellent apartment for both business and leisure. King's Cross location is unbeatable. The flat is modern, spacious, and has everything you need. Host was super helpful!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9}
+      ],
+      "submittedAt": "2024-08-22T16:00:00Z",
+      "guestName": "Rachel Green",
+      "listingName": "Kings Cross Station Apartment",
+      "listingId": "prop-002",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1016,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "James was a fantastic guest! Left the place spotless and was very courteous. Hope to host again soon.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2024-10-13T14:00:00Z",
+      "guestName": "James Thompson",
+      "listingName": "Kings Cross Station Apartment",
+      "listingId": "prop-002",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1017,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "This is our third time staying at this property and it never disappoints! The Notting Hill location is charming, the apartment is always immaculate, and the host is wonderful. Our London home away from home!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-08-15T09:30:00Z",
+      "guestName": "Patricia Moore",
+      "listingName": "Charming Notting Hill Flat",
+      "listingId": "prop-005",
+      "channel": "Direct"
+    },
+    {
+      "id": 1018,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Really enjoyed our stay in Shoreditch. Great restaurants and bars within walking distance. The apartment was clean and comfortable. Only wish there was air conditioning for the summer heat.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 7},
+        {"category": "accuracy", "rating": 8}
+      ],
+      "submittedAt": "2024-08-10T12:45:00Z",
+      "guestName": "Kevin White",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 1019,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Beautiful penthouse with an incredible terrace! Perfect for entertaining. We hosted a small dinner party and our guests were blown away. The space is even better than the photos.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-08-05T18:20:00Z",
+      "guestName": "Alexandra Turner",
+      "listingName": "Penthouse with Rooftop Terrace",
+      "listingId": "prop-004",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1020,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Location is great but the apartment needs work. We encountered several maintenance issues during our stay including a leaking faucet and broken blind. Host did try to address them but it affected our experience.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 6},
+        {"category": "communication", "rating": 7},
+        {"category": "location", "rating": 8},
+        {"category": "value", "rating": 4},
+        {"category": "accuracy", "rating": 5}
+      ],
+      "submittedAt": "2024-07-30T14:15:00Z",
+      "guestName": "Daniel Clark",
+      "listingName": "Camden Market Loft",
+      "listingId": "prop-003",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1021,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Perfect in every way! Clean, modern, great location near King's Cross. Host provided excellent recommendations for restaurants and things to do. Will absolutely be back!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 10},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-07-25T10:00:00Z",
+      "guestName": "Michelle Rodriguez",
+      "listingName": "Kings Cross Station Apartment",
+      "listingId": "prop-002",
+      "channel": "Expedia"
+    },
+    {
+      "id": 1022,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Wonderful flat in the heart of Notting Hill! Beautifully decorated with lots of character. Close to Portobello Road Market which was a highlight. Comfortable beds and great shower pressure!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9}
+      ],
+      "submittedAt": "2024-07-20T15:45:00Z",
+      "guestName": "Olivia Harris",
+      "listingName": "Charming Notting Hill Flat",
+      "listingId": "prop-005",
+      "channel": "Booking.com"
+    },
+    {
+      "id": 1023,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Robert was an ideal guest - professional, respectful, and great communication. Would definitely welcome him back!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2024-09-16T08:00:00Z",
+      "guestName": "Robert Johnson",
+      "listingName": "Kings Cross Station Apartment",
+      "listingId": "prop-002",
+      "channel": "Direct"
+    },
+    {
+      "id": 1024,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great base for exploring London. Shoreditch is hip and happening with tons to do. The apartment itself was good - clean and well-equipped. Would recommend adding some blackout curtains for better sleep.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 8}
+      ],
+      "submittedAt": "2024-07-15T11:30:00Z",
+      "guestName": "Christopher King",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1025,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Absolutely exceptional property! The penthouse terrace is magical at sunset. Everything from check-in to check-out was seamless. This is luxury accommodation done right. Worth every penny!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 10},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-07-10T16:00:00Z",
+      "guestName": "Samantha Baker",
+      "listingName": "Penthouse with Rooftop Terrace",
+      "listingId": "prop-004",
+      "channel": "Direct"
+    },
+    {
+      "id": 1026,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Okay stay overall. The Camden Market location is fun and energetic. Apartment was mostly clean though found some dust in corners. Wifi worked well. Good value for the area.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 7},
+        {"category": "communication", "rating": 7},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 7},
+        {"category": "accuracy", "rating": 7}
+      ],
+      "submittedAt": "2024-07-05T13:20:00Z",
+      "guestName": "Andrew Scott",
+      "listingName": "Camden Market Loft",
+      "listingId": "prop-003",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 1027,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Fantastic location and lovely apartment! Notting Hill is such a beautiful area to stay in. The flat had everything we needed and more. Host was attentive and provided great local tips. Highly recommend!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9}
+      ],
+      "submittedAt": "2024-06-28T09:45:00Z",
+      "guestName": "Victoria Phillips",
+      "listingName": "Charming Notting Hill Flat",
+      "listingId": "prop-005",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1028,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Best Airbnb experience we've had! The Shoreditch apartment is stylish, spotless, and perfectly located. Loved the attention to detail with welcome treats and local guidebook. Will definitely return!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-06-20T14:00:00Z",
+      "guestName": "Brandon Miller",
+      "listingName": "Modern 2BR Shoreditch Heights",
+      "listingId": "prop-001",
+      "channel": "Airbnb"
+    },
+    {
+      "id": 1029,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful guests who treated our property with care. Great communication and would happily host again!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2024-09-26T12:00:00Z",
+      "guestName": "Sophie Anderson",
+      "listingName": "Charming Notting Hill Flat",
+      "listingId": "prop-005",
+      "channel": "Vrbo"
+    },
+    {
+      "id": 1030,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Superb penthouse! The rooftop terrace alone is worth the stay. Great for a special occasion. Everything was immaculate and the host went above and beyond to ensure we had a memorable experience.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-06-15T17:30:00Z",
+      "guestName": "Gregory Adams",
+      "listingName": "Penthouse with Rooftop Terrace",
+      "listingId": "prop-004",
+      "channel": "Booking.com"
+    }
+  ]
+}
+
